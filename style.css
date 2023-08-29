@@ -4,3 +4,11 @@
     font-family: Arial, Helvetica, sans-serif;
     color: darkblue;
 }
+
+body{
+    background: url("https://picsum.photos/1920/1080");
+}
+
+ul{
+    list-style-type: square;
+}
